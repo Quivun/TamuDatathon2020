@@ -1,0 +1,2 @@
+AWS US-EAST reccomended
+https://github.com/josiahcoad/datathon-client
